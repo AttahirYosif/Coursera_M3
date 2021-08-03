@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Lora&display=swap');
+body
+{
+	background-color: white;
+	font-family: 'Oxygen', sans-serif;
+	font-size: 16px;
+}
+.myNav
+{
+	/*width: 100%;*/
+	box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	background-color: lightblue;
+
+}
+a
+{
+	text-decoration: none;
+}
+li
+{
+	text-align: center;
+	width: 100%;
+	background-color: azure;
+	font-size: 1.2em;
+	border:solid 2px gold;
+	border-bottom: 0px;
+}
+li:nth-child(3)
+{
+	border-bottom: 2px gold solid ;
+
+}
+h2,h3
+{
+	text-align: center;
+}
+.Menu-Item
+{
+	background-color: lightblue;
+	margin-top: 35px;
+	border-radius: 15px;
+}
+body>.container
+{
+	
+}
